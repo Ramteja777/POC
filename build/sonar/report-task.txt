@@ -1,0 +1,6 @@
+projectKey=sample-java-app
+serverUrl=http://100.26.241.39:9001
+serverVersion=10.2.0.77647
+dashboardUrl=http://100.26.241.39:9001/dashboard?id=sample-java-app
+ceTaskId=AYqO_fEYExAQYQwsl4Qb
+ceTaskUrl=http://100.26.241.39:9001/api/ce/task?id=AYqO_fEYExAQYQwsl4Qb

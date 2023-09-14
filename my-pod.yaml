@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-sample-pod
+spec:
+  containers:
+  - name: my-gradle-container
+    image: ramteja7/my-gradle-app:latest
